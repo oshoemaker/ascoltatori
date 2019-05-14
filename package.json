@@ -59,6 +59,7 @@
     "pre-commit": "^1.1.2"
   },
   "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
     "debug": "^2.2.0",
     "qlobber": "~0.7.0",
     "steed": "^1.1.3",
